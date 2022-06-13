@@ -1,3 +1,4 @@
+
  K3 12864 Tiltable Backpack Mount
 ============
 ![Top View](Images/TopView.jpg)
@@ -6,8 +7,8 @@
 
 <TABLE width=100%>
 <TR>
-<TD width=50% align=center><img src="Images/TopMountedClamp.jpg"></TD>
-<TD width=50% align=center><img src="Images/UnderMountedClamp.jpg"></TD>
+<TD width=50% align=center><img src="Images/TopMountedClamp.jpg"><BR>This will tilt all the way to 90 degrees, but will not tilt as flat.</TD>
+<TD width=50% align=center><img src="Images/UnderMountedClamp.jpg"><BR>Will tilt almost flat, but not quite to 90 degrees.</TD>
 </TR>
 <TR>
 <TD width=50% align=center><img src="Images/case_rear.jpg"></TD>
@@ -15,9 +16,16 @@
 </TR>
 <TR>
 <TD width=50% align=center><img src="Images/clamp.jpg"></TD>
-<TD width=50% align=center><img src="Images/UnderMountedClamp_Adjustable.jpg"></TD>
+<TD width=50% align=center><img src="Images/UnderMountedClamp_Adjustable.jpg"><BR>You can reach the tightening bolts from above the lid.</TD>
 </TR>
 </TABLE>
+
+ - Notes
+	 - Glue in the [a]_mini12864_case_front_accent.stl into mini12864_case_front.stl before pressing in the heat sets.
+	 - m3x8 to mount the clamps to the lid.  Recommend button heads if using the underneath mounting clamps.
+	 - m3x8 to mount the swingarms to the 12864 case.  Recommend button heads if using the underneath mounting clamps.
+	 - m3x10 or 12 to clamp the swingarms to the clamps.
+	 - m3x16 to attach the lid to the 12864 case sides.  
 
  - Acknowledgements
 	 - Annex Parts
