@@ -19,7 +19,7 @@
 <TD width=50% align=center><img src="Images/UnderMountedClamp_Adjustable.jpg"><BR>You can reach the tightening bolts from above the lid.</TD>
 </TR>
 <TR>
-<TD width=50% align=center><img src="Images/SupportPiece.png"><BR>Remove the red support piece</TD>
+<TD width=50% align=center><img src="Images/RemoveSupport.png"><BR>Remove the red support piece</TD>
 <TD></TD>
 </TR>
 </TABLE>
