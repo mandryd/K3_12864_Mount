@@ -1,21 +1,21 @@
  K3 12864 Tiltable Backpack Mount
 ============
-![Top View](images/TopView.jpg)
+![Top View](Images/TopView.jpg)
 
 **NOTE:  All pieces have been scaled up to 100.58 to account for ABS Shrinkage**.  This is important for the top lid piece which will be too small if not scaled up.  If you print in anything but ABS or ASA, you will need to take this into account.
 
 <TABLE width=100%>
 <TR>
-<TD width=50% align=center><img src="images/TopMountedClamp.jpg"></TD>
-<TD width=50% align=center><img src="images/UnderMountedClamp.jpg"></TD>
+<TD width=50% align=center><img src="Images/TopMountedClamp.jpg"></TD>
+<TD width=50% align=center><img src="Images/UnderMountedClamp.jpg"></TD>
 </TR>
 <TR>
-<TD width=50% align=center><img src="images/case_rear.jpg"></TD>
-<TD width=50% align=center><img src="images/case_rear2.jpg"></TD>
+<TD width=50% align=center><img src="Images/case_rear.jpg"></TD>
+<TD width=50% align=center><img src="Images/case_rear2.jpg"></TD>
 </TR>
 <TR>
-<TD width=50% align=center><img src="images/clamp.jpg"></TD>
-<TD width=50% align=center><img src="images/UnderMountedClamp_Adjustable.jpg"></TD>
+<TD width=50% align=center><img src="Images/clamp.jpg"></TD>
+<TD width=50% align=center><img src="Images/UnderMountedClamp_Adjustable.jpg"></TD>
 </TR>
 </TABLE>
 
