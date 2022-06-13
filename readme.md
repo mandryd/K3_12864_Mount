@@ -7,8 +7,8 @@
 
 <TABLE width=100%>
 <TR>
-<TD width=50% align=center><img src="Images/TopMountedClamp.jpg"><BR>This will tilt all the way to 90 degrees, but will not tilt as flat.</TD>
-<TD width=50% align=center><img src="Images/UnderMountedClamp.jpg"><BR>Will tilt almost flat, but not quite to 90 degrees.</TD>
+<TD width=50% align=center><img src="Images/TopMountedClamp.jpg"><BR>Top mounted clamps all you to tilt all the way to 90 degrees, but will not tilt as flat.</TD>
+<TD width=50% align=center><img src="Images/UnderMountedClamp.jpg"><BR>Under mounted clamps will tilt almost flat, but not quite to 90 degrees.</TD>
 </TR>
 <TR>
 <TD width=50% align=center><img src="Images/case_rear.jpg"></TD>
