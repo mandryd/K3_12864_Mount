@@ -3,7 +3,7 @@
 ============
 ![Top View](Images/TopView.jpg)
 
-**NOTE:  All pieces have been scaled up to 100.58 (in XY only) to account for ABS Shrinkage**.  This is important for the top lid piece which will be too small if not scaled up.  If you print in anything but ABS or ASA, you will need to take this into account.  CAD is included if you need the size without the scaling.
+**NOTE:  All STLs have been scaled up to 100.58 (in XY) to account for ABS Shrinkage**.  This is important for the top lid piece which will be too small if not scaled up.  If you print in anything but ABS or ASA, you will need to take this into account.  CAD is included if you need the size without the scaling.
 
 <TABLE width=100%>
 <TR>
