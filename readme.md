@@ -26,6 +26,7 @@
 
  - Notes
 	 - There is a small support piece on the lid
+	 - Note, I added a slotted version of the lid which will make the lid easier to fit.
 	 - Glue in the [a]_mini12864_case_front_accent.stl into mini12864_case_front.stl before pressing in the heat sets.
 	 - m3x8 to mount the clamps to the lid.  Recommend button heads if using the underneath mounting clamps.
 	 - m3x8 to mount the swingarms to the 12864 case.  Recommend button heads if using the underneath mounting clamps.
