@@ -25,8 +25,8 @@
 </TABLE>
 
  - Notes
-	 - Don't forget to account for your material shrinkage.  
-	 - There is a small support piece on the lid
+	 - Don't forget to account for your material shrinkage.  I recommend scaling up all the pieces and not just the lid piece.  I scaled mine to 100.58 in X and Y (Z isn't an issue usually).
+	 - There is a small support piece on the lid that needs to be removed.
 	 - Glue in the [a]_mini12864_case_front_accent.stl into mini12864_case_front.stl before pressing in the heat sets.
 	 - m3x8 to mount the clamps to the lid.  Recommend button heads if using the underneath mounting clamps.
 	 - m3x8 to mount the swingarms to the 12864 case.  Recommend button heads if using the underneath mounting clamps.
