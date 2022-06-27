@@ -3,7 +3,7 @@
 ============
 ![Top View](Images/TopView.jpg)
 
-**NOTE:  All STLs have been scaled up to 100.58 (in XY) to account for ABS Shrinkage**.  This is important for the top lid piece which will be too small if not scaled up.  If you print in anything but ABS or ASA, you will need to take this into account.  CAD is included if you need the size without the scaling.
+**NOTE:  Be aware of your material shrinkage**.  This is important for the top lid piece which may be too small if not scaled up.  I generally scale up to 100.58 for ABS and 100.45 for ASA.  
 
 <TABLE width=100%>
 <TR>
@@ -25,6 +25,7 @@
 </TABLE>
 
  - Notes
+	 - Don't forget to account for your material shrinkage.  
 	 - There is a small support piece on the lid
 	 - Glue in the [a]_mini12864_case_front_accent.stl into mini12864_case_front.stl before pressing in the heat sets.
 	 - m3x8 to mount the clamps to the lid.  Recommend button heads if using the underneath mounting clamps.
